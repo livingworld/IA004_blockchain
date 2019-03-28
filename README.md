@@ -104,5 +104,7 @@ https://www.jianguoyun.com/p/DSjZLawQmr39BRi5mq0B
 
 [会议记录模板](https://github.com/happylyy/IA004_blockchain/blob/master/reference/%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81%E6%A8%A1%E6%9D%BF.md)
 
-[往期优秀参考项目]()
+[前辈协作案例]()
+
+如何写卡片
 
