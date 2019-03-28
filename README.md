@@ -58,19 +58,32 @@
 
 
 
+## 仓库目录
+
+/delivery 	 存放不需要更改的交付文档
+/proc 		存放过程文档（如大家提交的报告等）
+/reference 	存放参考资料列表，pdf使用坚果云，这里有一个包含参考资料连接的文档
+/storage	   存放image等，需要调用link的，用其他图床也可以，只要link有效就行
+
+
+
 ## BP大纲
+
+[临时大纲](https://github.com/happylyy/IA004_blockchain/blob/master/proc/BP%E5%A4%A7%E7%BA%B2%E8%BF%AD%E4%BB%A3.md)
 
 
 
 ## 当前问题
 
+链接到issues需要手动更新
+
 
 
 ## 协作工具
 
-项目协作：[github]()
+项目协作：github
 
-​	三种使用方法，根据自己的能力选择上手最快的一种：网页操作，github desktop（适合Mac，不适合Windows），git gui
+​	三种使用方法，根据自己的能力选择上手最快的一种：网页操作，github desktop（Mac），git gui
 
 文档共享：坚果云
 
