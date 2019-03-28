@@ -98,13 +98,13 @@ https://www.jianguoyun.com/p/DSjZLawQmr39BRi5mq0B
 
 ## 参考资料
 
-[区块链知识]()
+[区块链知识](https://github.com/happylyy/IA004_blockchain/blob/master/reference/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9F%A5%E8%AF%86.md)
 
 [BP工具箱](https://github.com/happylyy/IA004_blockchain/blob/master/reference/BP%E5%B7%A5%E5%85%B7%E7%AE%B1.md)
 
 [会议记录模板](https://github.com/happylyy/IA004_blockchain/blob/master/reference/%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81%E6%A8%A1%E6%9D%BF.md)
 
-[前辈协作案例]()
+[前辈协作案例](https://github.com/happylyy/IA004_blockchain/blob/master/reference/%E5%BE%80%E6%9C%9F%E4%BC%98%E7%A7%80%E5%8D%8F%E4%BD%9C%E6%A1%88%E4%BE%8B.md)
 
-如何写卡片
+如何写卡片（谁帮忙加个链接）
 
