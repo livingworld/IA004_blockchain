@@ -1,5 +1,6 @@
 ## 项目进度overview
 
+参考课程组提供的[bp进度安排](https://static.openmindclub.com/2019-03-20-%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_1e8f293f-50fb-4a81-8321-5a11fe30820f.png)制作了项目进度
 
 
 ### ~~开始前~~
@@ -40,7 +41,6 @@
 
 
 
-![](https://static.openmindclub.com/2019-03-20-%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_1e8f293f-50fb-4a81-8321-5a11fe30820f.png)
 
 
 
