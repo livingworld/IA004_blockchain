@@ -105,5 +105,5 @@ https://www.jianguoyun.com/p/DSjZLawQmr39BRi5mq0B
 
 [前辈协作案例](https://github.com/happylyy/IA004_blockchain/blob/master/reference/%E5%BE%80%E6%9C%9F%E4%BC%98%E7%A7%80%E5%8D%8F%E4%BD%9C%E6%A1%88%E4%BE%8B.md)
 
-[如何写卡片]（https://www.yangzhiping.com/psy/happy-new-year-faq3.html）
+[如何写卡片](https://www.yangzhiping.com/psy/happy-new-year-faq3.html)
 
