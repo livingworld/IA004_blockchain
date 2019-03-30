@@ -75,9 +75,9 @@
 
 
 
-## 当前问题
+## 当前issue
 
-链接到issues需要手动更新
+[issue1](https://github.com/livingworld/IA004_blockchain/issues/1#issue-426472100)
 
 
 
