@@ -55,7 +55,9 @@
 | **信息加工** |                                                              |
 | **信息报告** |                                                              |
 
-
+## 检索技巧
+- XX filetype:pdf
+- XX site:www.abc.com
 
 ## 仓库目录
 
