@@ -22,13 +22,13 @@
 | 信息获取 | ~~20190328(4wd4)~~ | ~~小组~~   | [~~破冰会议~~](https://github.com/livingworld/IA004_blockchain/blob/master/delivery/%E7%A0%B4%E5%86%B0%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95.md) |
 |          | ~~20190328(4wd4)~~ | ~~课程组~~ | ~~第一次结业bp交流会~~                                       |
 |          | ~~20190330(4wd6)~~ | ~~小组~~   | ~~[初步确定输出目标      搜集资料      迭代大纲~~](https://github.com/livingworld/IA004_blockchain/issues/1#issuecomment-478225339) <br>阻碍：每个人的基础有所不同，大家分头补齐下区块链的基础|
-| 信息整理 | 20190402(5wd2)     | 小组       | 确定大纲      认领任务      分头行动                         |[没有形成明确的大纲，根据前期对区块链的认识，将信息来源分成了几个维度，大家分头从不同的维度调查区块链公司，针对“哪些区块链公司有价值”给出答案。](https://github.com/livingworld/IA004_blockchain/issues/3)
-|          | 20190406(5wd6)     | 小组       | 开始输出/沉淀,整理文档                                       |初步形成BP内容框架，钟蓉着手构思BP呈现，其他人继续针对区块链应用的评价标准进行验证|
-| 信息加工 | 20190409(6wd2)     | 小组       | 开始输出/沉淀,整理文档                                       |[BP大纲确定，根据现有材料填充内容](https://github.com/livingworld/IA004_blockchain/blob/master/proc/BP_outline.md)|
-|          | 20190411(6wd4)     | 课程组     | 结业交流会                                                   |[根据交流会上教练们的建议修改的第二版BP大纲](https://github.com/livingworld/IA004_blockchain/blob/master/proc/BP_Outline_v2.md)
-|          | 20190412(6wd5)     | 课程组     | 报名路演                                                     |
-| 信息报告 |20190414(6wd7)     | 小组       | 制作幻灯片      迭代                                |
-|          | 20190415,16,17    | 小组       | 中午排练                              |
+~~| 信息整理 | 20190402(5wd2)     | 小组       | 确定大纲      认领任务      分头行动                         |[没有形成明确的大纲，根据前期对区块链的认识，将信息来源分成了几个维度，大家分头从不同的维度调查区块链公司，针对“哪些区块链公司有价值”给出答案。](https://github.com/livingworld/IA004_blockchain/issues/3)~~
+~~|          | 20190406(5wd6)     | 小组       | 开始输出/沉淀,整理文档                                       |初步形成BP内容框架，钟蓉着手构思BP呈现，其他人继续针对区块链应用的评价标准进行验证|~~
+~~| 信息加工 | 20190409(6wd2)     | 小组       | 开始输出/沉淀,整理文档                                       |[BP大纲确定，根据现有材料填充内容](https://github.com/livingworld/IA004_blockchain/blob/master/proc/BP_outline.md)|~~
+~~|          | 20190411(6wd4)     | 课程组     | 结业交流会                                                   |[根据交流会上教练们的建议修改的第二版BP大纲](https://github.com/livingworld/IA004_blockchain/blob/master/proc/BP_Outline_v2.md)~~
+~~|          | 20190412(6wd5)     | 课程组     | 报名路演                                                     |~~
+~~| 信息报告 |20190414(6wd7)     | 小组       | 制作幻灯片      迭代                                |~~
+~~| | 20190415,16,17    | 小组       | 中午排练                              |~~
 |          | 20190417(7wd3)     | 课程组     | 路演、    third day，second                               |[路演PPT](https://github.com/livingworld/IA004_blockchain/blob/master/delivery/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%BA%AF%E6%BA%90%E8%A1%8C%E4%B8%9A%E6%9C%80%E5%B0%8F%E5%85%A8%E5%B1%80%E8%AE%A4%E8%AF%86.md)
 
 
