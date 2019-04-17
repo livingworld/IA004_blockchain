@@ -27,10 +27,9 @@
 | 信息加工 | 20190409(6wd2)     | 小组       | 开始输出/沉淀,整理文档                                       |[BP大纲确定，根据现有材料填充内容](https://github.com/livingworld/IA004_blockchain/blob/master/proc/BP_outline.md)|
 |          | 20190411(6wd4)     | 课程组     | 结业交流会                                                   |[根据交流会上教练们的建议修改的第二版BP大纲](https://github.com/livingworld/IA004_blockchain/blob/master/proc/BP_Outline_v2.md)
 |          | 20190412(6wd5)     | 课程组     | 报名路演                                                     |
-| 信息报告 | 20190413(6wd6)     | 小组       | 制作幻灯片      迭代                                |
-|          | 20190414(6wd7)     | 小组       | 制作幻灯片      迭代                               |
-|          | 20190416           | 小组       | 下班后排练                                                   |
-|          | 20190416(7wd2)     | 课程组     | 路演、      second day，second                               |[路演PPT](https://github.com/livingworld/IA004_blockchain/blob/master/delivery/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%BA%AF%E6%BA%90%E8%A1%8C%E4%B8%9A%E6%9C%80%E5%B0%8F%E5%85%A8%E5%B1%80%E8%AE%A4%E8%AF%86.md)
+| 信息报告 |20190414(6wd7)     | 小组       | 制作幻灯片      迭代                                |
+|          | 20190415,16,17    | 小组       | 中午排练                              |
+|          | 20190417(7wd3)     | 课程组     | 路演、    third day，second                               |[路演PPT](https://github.com/livingworld/IA004_blockchain/blob/master/delivery/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%BA%AF%E6%BA%90%E8%A1%8C%E4%B8%9A%E6%9C%80%E5%B0%8F%E5%85%A8%E5%B1%80%E8%AE%A4%E8%AF%86.md)
 
 
 ### 执行后
