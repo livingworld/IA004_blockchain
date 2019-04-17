@@ -30,7 +30,7 @@
 | 信息报告 | 20190413(6wd6)     | 小组       | 制作幻灯片      迭代                                |
 |          | 20190414(6wd7)     | 小组       | 制作幻灯片      迭代                               |
 |          | 20190416           | 小组       | 下班后排练                                                   |
-|          | 20190416(7wd2)     | 课程组     | 路演、      second day，second                               |[路演PPT](https://github.com/livingworld/IA004_blockchain/blob/master/delivery/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%95%E8%B5%84%E9%98%B2%E9%AA%97%E6%8C%87%E5%8D%97%20v1.0.pptx)
+|          | 20190416(7wd2)     | 课程组     | 路演、      second day，second                               |[路演PPT](https://github.com/livingworld/IA004_blockchain/blob/master/delivery/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%BA%AF%E6%BA%90%E8%A1%8C%E4%B8%9A%E6%9C%80%E5%B0%8F%E5%85%A8%E5%B1%80%E8%AE%A4%E8%AF%86.md)
 
 
 ### 执行后
